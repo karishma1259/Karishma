@@ -1,0 +1,16 @@
+class Friuts
+{
+	String name;
+	}
+	class Apple extends Friut
+	{
+		string eat;
+		public static void main(String[] args);
+		{
+			Apple A = new Apple();
+			d.name();
+			d.display("Friut");
+			d.eat();
+			d.display("Human");
+		}
+}
