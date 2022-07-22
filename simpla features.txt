@@ -1,0 +1,11 @@
+
+import java.io.*;
+public class ammu
+ {
+    public static void main(String[] args)
+    {
+ 
+        // Print statement
+        System.out.println("Welcome to ammu");
+    }
+}
