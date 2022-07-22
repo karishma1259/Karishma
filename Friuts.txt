@@ -13,4 +13,4 @@ class Friuts
 			d.eat();
 			d.display("Human");
 		}
-}
+}cd
